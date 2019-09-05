@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+article, aside, footer, header, main, nav, section {
+    display: block;
+}
+
+html, body, h1, h2, h3, ul, li, a,
+article, aside, footer, header, main, nav, section {
+    padding: 0;
+    margin: 0
+}
+form {
+    margin-top: 50px;
+    border-radius: 25px;
+    margin-left: 700px;
+    text-align: center;
+    background-color: blue;
+    color: ivory;
+    display: inline-block;
+    width: 20rem;
+    height: 26rem;
+}
+
+input {
+    margin-top: 5px;
+    text-align: center;
+    padding: 8px 40px;
+    border-radius: 10px;
+    display: inline;
+    background-color: black;
+    color: white;
+}
+
+button {
+    color: black;
+    background-color: #DD7000;
+    display: inline;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+}
+.reload {
+    color: #f8f1ff;
+    background-color: #A03020;
+    display: inline;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+}
+.antwoord {
+ margin-top: 10px;
+  margin-left: 700px;
+  border-radius: 25px;
+  width: 20rem;
+  height: 350px;
+  background-color: black;
+  color: white;
+  border: 5px;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+h1 {
+    margin-left: 700px;
+}
